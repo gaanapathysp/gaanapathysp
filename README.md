@@ -1,4 +1,4 @@
-![Header](https://github.com/gaanapathysp/gaanapathysp/blob/main/github-header-image%20(2).png)
+![Header](https://github.com/gaanapathysp/gaanapathysp/blob/main/github-header-image%20(3).png)
 <h1 align="center">Hi 😎👋, I'm SP Gaanapathy✨</h1>
 <h3 align="center">I have a deep passion for backend development and a keen interest in Web3 technology</h3>
 
